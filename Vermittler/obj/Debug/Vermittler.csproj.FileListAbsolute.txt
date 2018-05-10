@@ -1,0 +1,14 @@
+C:\Users\Verena\Documents\FH\Semerster4\SWP\SWP-UE6\Vermittler\Vermittler\bin\Debug\Vermittler.exe.config
+C:\Users\Verena\Documents\FH\Semerster4\SWP\SWP-UE6\Vermittler\Vermittler\bin\Debug\Vermittler.exe
+C:\Users\Verena\Documents\FH\Semerster4\SWP\SWP-UE6\Vermittler\Vermittler\bin\Debug\Vermittler.pdb
+C:\Users\Verena\Documents\FH\Semerster4\SWP\SWP-UE6\Vermittler\Vermittler\obj\Debug\MainWindow.g.cs
+C:\Users\Verena\Documents\FH\Semerster4\SWP\SWP-UE6\Vermittler\Vermittler\obj\Debug\App.g.cs
+C:\Users\Verena\Documents\FH\Semerster4\SWP\SWP-UE6\Vermittler\Vermittler\obj\Debug\Vermittler_MarkupCompile.cache
+C:\Users\Verena\Documents\FH\Semerster4\SWP\SWP-UE6\Vermittler\Vermittler\obj\Debug\Vermittler_MarkupCompile.lref
+C:\Users\Verena\Documents\FH\Semerster4\SWP\SWP-UE6\Vermittler\Vermittler\obj\Debug\MainWindow.baml
+C:\Users\Verena\Documents\FH\Semerster4\SWP\SWP-UE6\Vermittler\Vermittler\obj\Debug\Vermittler.g.resources
+C:\Users\Verena\Documents\FH\Semerster4\SWP\SWP-UE6\Vermittler\Vermittler\obj\Debug\Vermittler.Properties.Resources.resources
+C:\Users\Verena\Documents\FH\Semerster4\SWP\SWP-UE6\Vermittler\Vermittler\obj\Debug\Vermittler.csproj.GenerateResource.Cache
+C:\Users\Verena\Documents\FH\Semerster4\SWP\SWP-UE6\Vermittler\Vermittler\obj\Debug\Vermittler.exe
+C:\Users\Verena\Documents\FH\Semerster4\SWP\SWP-UE6\Vermittler\Vermittler\obj\Debug\Vermittler.pdb
+C:\Users\Verena\Documents\FH\Semerster4\SWP\SWP-UE6\Vermittler\Vermittler\obj\Debug\GeneratedInternalTypeHelper.g.cs
